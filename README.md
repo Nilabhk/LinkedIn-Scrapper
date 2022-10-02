@@ -32,5 +32,19 @@ The project was accomplished by group of four members. Each member performed dif
 - Raw data is converted to DataFrame and then cleaned using python pandas library.
 - According to the table requirement, columns are grouped accordingly and 3 new DataFrame is created.
 - Again data cleaning(null removal, duplicate removal) is performed for each of the 3 DataFrame.
-- Finally cleaned data is saved in CSV format. 
-- 
+- Finally cleaned data is saved in the CSV format. 
+- Further cleaning performed on CSV data using Excel.
+- Primary key for each table is created accordingly.
+
+<strong>3. Insights using MS SQL</strong>
+- The CSVs are imported in MS SQL server.
+- Insights are drawn according to the problem statement.
+- MS MSQL file is attached.
+
+<strong>4. Dashboard Creation</strong>
+- Each of the three CSVs are joined in MS SQL.
+- Using Excel the dashboard is created. 
+- Later dashboard using Tableau will also be added here.
+
+![Screenshot 2022-10-02 at 3 09 23 PM](https://user-images.githubusercontent.com/66992000/193452880-aa561c96-771d-4603-ae98-75ddb53d0273.png)
+
