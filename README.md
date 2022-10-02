@@ -16,3 +16,5 @@ The project was accomplished by group of four members. Each member performed dif
 - Save the final datasets in csv format.
 
 
+<strong> Initial approach to follow the strategy above to get the final dataset</strong>
+- 
