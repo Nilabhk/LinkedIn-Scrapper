@@ -1,0 +1,322 @@
+﻿Company_id,Company_Name,Industry,Employee_count,Job_ID,LinkedIn_Followers,Location_City,Location_State,Designation,Details_ID,Involvement,Level,Total_Applicants
+C019,cure.fit (cult.fit),Wellness and Fitness Services,1001,J035,0,Bengaluru,Karnataka,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C208,SORRIDENTS FRANCHISING,Wellness and Fitness Services,501,J067,0,Kalyanpur,Bihar,Auxiliar de Limpeza Clnica Odontolgica,D030,Full-time,Entry level,NULL
+C173,CairnMartin,Venture Capital and Private Equity Principals,11,J088,0,Pune,Maharashtra,Head of HR (Corporate),D028,Full-time,Director,NULL
+C212,"AbhiBus, an ixigo company.",Travel Arrangements,201,J333,0,Hyderabad,Telangana,AbhiBus - Manager - Brand Communications,D008,Full-time,Associate,NULL
+C171,Delhivery,"Transportation, Logistics, Supply Chain and Storage",10000,J341,0,Bangalore Urban district,Karnataka,Associate,D030,Full-time,Entry level,NULL
+C171,Delhivery,"Transportation, Logistics, Supply Chain and Storage",10000,J342,0,Bangalore Urban district,Karnataka,Associate,D033,Full-time,Entry level,121
+C171,Delhivery,"Transportation, Logistics, Supply Chain and Storage",10000,J469,0,Gurgaon,Haryana,Associate,D030,Full-time,Entry level,NULL
+C203,Costa Rica Malhas,Textile Manufacturing,1001,J507,0,Kalyanpur,Bihar,Gerente Comercial,D008,Full-time,Associate,NULL
+C203,Costa Rica Malhas,Textile Manufacturing,1001,J279,0,Kalyanpur,Bihar,Gerente Comercial,D018,Full-time,Associate,3
+C050,Jio,Telecommunications,10000,J022,800053,Hyderabad,Telangana,Software Engineer AI/ML,D004,Full-time,NULL,NULL
+C017,airtel,Telecommunications,10000,J024,0,Manesar,Haryana,Data Analyst,D084,Full-time,Mid-Senior level,NULL
+C034,BluSmart,"Technology, Information and Media",51,J025,85247,Gurugram,Haryana,Data Analyst,D084,Full-time,Mid-Senior level,NULL
+C030,PayPal,"Technology, Information and Internet",10000,J026,0,Bangalore Urban district,Karnataka,Data Scientist,D004,Full-time,NULL,NULL
+C023,Airbnb,"Technology, Information and Internet",5001,J028,2127258,Bengaluru,Karnataka,Analytics & Insight Analyst,D030,Full-time,Entry level,NULL
+C023,Airbnb,"Technology, Information and Internet",5001,J221,2127258,Bengaluru,Karnataka,Analytics and Insights Analyst,D037,Full-time,Entry level,179
+C047,Next Labs,"Technology, Information and Internet",11,J223,12374,Bengaluru,Karnataka,Data Analyst,D035,Full-time,Entry level,159
+C030,PayPal,"Technology, Information and Internet",10000,J224,0,Bengaluru,Karnataka,Data Analyst 2,D004,Full-time,NULL,NULL
+C030,PayPal,"Technology, Information and Internet",10000,J229,0,Bengaluru,Karnataka,Data Scientist 1,D004,Full-time,NULL,NULL
+C023,Airbnb,"Technology, Information and Internet",5001,J326,2127258,Bengaluru,Karnataka,Analytics and Insights Analyst,D030,Full-time,Entry level,NULL
+C110,Games24x7,"Technology, Information and Internet",501,J336,0,Bengaluru,Karnataka,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C110,Games24x7,"Technology, Information and Internet",501,J346,0,Bengaluru,Karnataka,Data Analyst,D008,Full-time,Associate,NULL
+C023,Airbnb,"Technology, Information and Internet",5001,J350,2127258,Bengaluru,Karnataka,Analytics and Insights Analyst,D038,Full-time,Entry level,181
+C189,Ola,"Technology, Information and Internet",5001,J356,0,Bengaluru,Karnataka,Graphic Designer,D028,Full-time,Director,NULL
+C226,Swiggy,"Technology, Information and Internet",1001,J267,0,Bengaluru,Karnataka,Manager - Strategy,D008,Full-time,Associate,NULL
+C150,OJCommerce,"Technology, Information and Internet",51,J387,0,Chennai,Tamil Nadu,Excel Developer,D030,Full-time,Entry level,NULL
+C023,Airbnb,"Technology, Information and Internet",5001,J388,2127258,Gurgaon,Haryana,Analytics & Insight Analyst,D030,Full-time,Entry level,NULL
+C023,Airbnb,"Technology, Information and Internet",5001,J237,2127258,Gurgaon,Haryana,Analytics and Insights Analyst,D036,Full-time,Entry level,169
+C023,Airbnb,"Technology, Information and Internet",5001,J239,2127258,Gurgaon,Haryana,Analytics and Insights Analyst,D030,Full-time,Entry level,NULL
+C001,MakeMyTrip,"Technology, Information and Internet",1001,J248,0,Gurugram,Haryana,Data Scientist,D008,Full-time,Associate,NULL
+C001,MakeMyTrip,"Technology, Information and Internet",1001,J251,0,Gurugram,Haryana,Product Analyst,D008,Full-time,Associate,NULL
+C035,OYO,"Technology, Information and Internet",5001,J020,0,Gurugram,Haryana,Business Analyst,D084,Full-time,Mid-Senior level,NULL
+C157,Tata 1mg,"Technology, Information and Internet",1001,J021,0,Gurugram,Haryana,Manager / Sr. Manager ‚Äì Business Intelligence,D084,Full-time,Mid-Senior level,NULL
+C039,Uber,"Technology, Information and Internet",10000,J041,0,Hyderabad,Telangana,"Data Analyst, FinTech",D004,Full-time,NULL,NULL
+C188,Google Operations Center,"Technology, Information and Internet",1001,J043,0,Hyderabad,Telangana,Workflow Management Team Lead - NOVA,D008,Full-time,Associate,NULL
+C188,Google Operations Center,"Technology, Information and Internet",1001,J044,0,Hyderabad,Telangana,Workflow Management Team Lead - NOVA,D012,Full-time,Associate,126
+C040,Media.net,"Technology, Information and Internet",1001,J046,0,Mumbai,Maharashtra,Data Analyst,D030,Full-time,Entry level,NULL
+C035,OYO,"Technology, Information and Internet",5001,J061,0,Mumbai,Maharashtra,Relationship Manager,D008,Full-time,Associate,NULL
+C035,OYO,"Technology, Information and Internet",5001,J062,0,Mumbai,Maharashtra,Business Development Manager,D008,Full-time,Associate,NULL
+C177,JioSaavn,"Technology, Information and Internet",201,J066,0,Mumbai,Maharashtra,"SENIOR MANAGER, CLIENT STRATEGY",D084,Full-time,Mid-Senior level,NULL
+C177,JioSaavn,"Technology, Information and Internet",201,J069,0,Mumbai,Maharashtra,Sr.Manager/Manager - Strategy & Operations,D084,Full-time,Mid-Senior level,NULL
+C238,Zepto,"Technology, Information and Internet",51,J070,0,Mumbai,Maharashtra,Zepto - Category Manager,D008,Full-time,Associate,NULL
+C035,OYO,"Technology, Information and Internet",5001,J085,0,Mumbai,Maharashtra,Relationship Manager,D015,Full-time,Associate,197
+C035,OYO,"Technology, Information and Internet",5001,J087,0,Mumbai,Maharashtra,Relationship Manager,D016,Full-time,Associate,198
+C177,JioSaavn,"Technology, Information and Internet",201,J090,0,Mumbai Metropolitan Region,Maharashtra,Product Analyst,D084,Full-time,Mid-Senior level,NULL
+C226,Swiggy,"Technology, Information and Internet",1001,J091,0,Pune,Maharashtra,Sales Manager I,D008,Full-time,Associate,NULL
+C176,Brunel,Staffing and Recruiting,10000,J093,0,Barmer,Rajasthan,Field HSE Supervisor,D008,Full-time,Associate,NULL
+C176,Brunel,Staffing and Recruiting,10000,J117,0,Barmer,Rajasthan,Field HSE Supervisor,D019,Full-time,Associate,4
+C072,Zyoin,Staffing and Recruiting,201,J119,0,Bengaluru,Karnataka,Data Scientist,D053,Full-time,Executive,NULL
+C174,Solvios Technology,Software Development,11,J120,0,Ahmedabad,Gujarat,Manual Tester,D084,Full-time,Mid-Senior level,NULL
+C174,Solvios Technology,Software Development,11,J126,0,Ahmedabad,Gujarat,Manual Tester,D096,Full-time,Mid-Senior level,75
+C002,Microsoft,Software Development,10000,J154,0,NULL,Andhra Pradesh,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J211,0,NULL,Assam,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C026,LeadSquared,Software Development,1001,J212,0,Bangalore Urban,Karnataka,Data Analyst,D008,Full-time,Associate,NULL
+C222,"Rubrik, Inc.",Software Development,1001,J213,0,Bangalore Urban,Karnataka,Senior Software Engineer DLC,D008,Full-time,Associate,NULL
+C067,Sivi,Software Development,11,J214,1385,Bengaluru,Karnataka,Data Scientist [Fresher],D008,Full-time,Associate,NULL
+C136,Salesforce,Software Development,10000,J219,3915833,Bengaluru,Karnataka,Senior Technical Consultant (Salesforce Developer),D006,Full-time,NULL,31
+C141,Cloudera,Software Development,1001,J230,225602,Bengaluru,Karnataka,Senior Software Development Engineer in Test (Senior SDET),D027,Full-time,Associate,95
+C192,In Time Tec,Software Development,501,J233,0,Bengaluru,Karnataka,Manual Tester- (For Night Shift),D030,Full-time,Entry level,NULL
+C196,ProjectPro,Software Development,11,J234,0,Bengaluru,Karnataka,Associate Data Scientist,D008,Full-time,Associate,NULL
+C221,Instabase,Software Development,201,J235,0,Bengaluru,Karnataka,"Senior Software Engineer, Backend - Infra",D008,Full-time,Associate,NULL
+C331,Volopay,Software Development,51,J238,20855,Bengaluru,Karnataka,Head of Customer Success,D029,Full-time,Director,72
+C002,Microsoft,Software Development,10000,J241,0,Chandigarh,Chandigarh,Data Science Internship Opportunity for University Graduates,D104,Internship,Internship,15
+C002,Microsoft,Software Development,10000,J243,0,Chandigarh,Chandigarh,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C215,ZoomInfo,Software Development,1001,J249,0,Chennai,Tamil Nadu,Senior Software Engineer,D084,Full-time,Mid-Senior level,NULL
+C195,Azentio Software,Software Development,1001,J256,0,Chennai,Tamil Nadu,Project Management Officer,D095,Full-time,Mid-Senior level,72
+C195,Azentio Software,Software Development,1001,J261,0,Chennai,Tamil Nadu,Project Management Officer,D084,Full-time,Mid-Senior level,NULL
+C002,Microsoft,Software Development,10000,J266,0,NULL,Daman and Diu,Data Science Internship Opportunity for University Graduates,D099,Internship,Internship,13
+C002,Microsoft,Software Development,10000,J275,0,NULL,Daman and Diu,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J285,0,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D100,Internship,Internship,130
+C002,Microsoft,Software Development,10000,J287,0,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D101,Internship,Internship,131
+C002,Microsoft,Software Development,10000,J289,0,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J390,0,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D102,Internship,Internship,136
+C002,Microsoft,Software Development,10000,J393,0,NULL,Goa,Data Science Internship Opportunity for University Graduates,D109,Internship,Internship,5
+C002,Microsoft,Software Development,10000,J394,0,NULL,Goa,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J397,0,NULL,Gujarat,Data Science Internship Opportunity for University Graduates,D110,Internship,Internship,59
+C002,Microsoft,Software Development,10000,J398,0,NULL,Gujarat,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C181,ESSENWARE PRIVATE LIMITED,Software Development,51,J405,0,Gurugram,Haryana,Test Lead,D008,Full-time,Associate,NULL
+C181,ESSENWARE PRIVATE LIMITED,Software Development,51,J419,0,Gurugram,Haryana,Test Lead,D020,Full-time,Associate,41
+C002,Microsoft,Software Development,10000,J423,0,NULL,Himachal Pradesh,Data Science Internship Opportunity for University Graduates,D107,Internship,Internship,3
+C002,Microsoft,Software Development,10000,J427,0,NULL,Himachal Pradesh,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C136,Salesforce,Software Development,10000,J434,3915833,Hyderabad,Telangana,Senior Technical Consultant (Salesforce Developer),D004,Full-time,NULL,NULL
+C187,CAW Studios,Software Development,51,J435,0,Hyderabad,Telangana,Manual Tester,D008,Full-time,Associate,NULL
+C181,ESSENWARE PRIVATE LIMITED,Software Development,51,J436,0,Hyderabad,Telangana,Test Lead,D008,Full-time,Associate,NULL
+C187,CAW Studios,Software Development,51,J448,0,Hyderabad,Telangana,Manual Tester,D011,Full-time,Associate,11
+C181,ESSENWARE PRIVATE LIMITED,Software Development,51,J456,0,Hyderabad,Telangana,Test Lead,D023,Full-time,Associate,52
+C010,Hypersonix Inc.,Software Development,51,J457,11365,NULL,India,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C002,Microsoft,Software Development,10000,J477,0,NULL,Karnataka,Data Science Internship Opportunity for University Graduates,D108,Internship,Internship,39
+C002,Microsoft,Software Development,10000,J501,0,NULL,Karnataka,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J029,0,NULL,Karnataka,Product Manager Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J030,0,NULL,Karnataka,Product Manager Internship Opportunity for University Graduates,D112,Internship,Internship,7
+C002,Microsoft,Software Development,10000,J031,0,NULL,Maharashtra,Product Manager Internship Opportunity for University Graduates,D113,Internship,Internship,9
+C195,Azentio Software,Software Development,1001,J055,0,Mumbai,Maharashtra,Business Analyst,D008,Full-time,Associate,NULL
+C293,Duality Robotics,Software Development,11,J001,2289,Mumbai,Maharashtra,Office Coordinator,D030,Full-time,Entry level,NULL
+C002,Microsoft,Software Development,10000,J002,0,Noida,Uttar Pradesh,Product Manager,D084,Full-time,Mid-Senior level,NULL
+C244,Mindtickle,Software Development,201,J004,0,Pune,Maharashtra,Finance Executive,D084,Full-time,Mid-Senior level,NULL
+C181,ESSENWARE PRIVATE LIMITED,Software Development,51,J005,0,Pune/Pimpri-Chinchwad Area,Maharashtra,Project Manager,D030,Full-time,Entry level,NULL
+C181,ESSENWARE PRIVATE LIMITED,Software Development,51,J006,0,Pune/Pimpri-Chinchwad Area,Maharashtra,Project Manager,D045,Full-time,Entry level,78
+C002,Microsoft,Software Development,10000,J007,0,NULL,Tripura,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J009,0,NULL,Uttar Pradesh,Product Manager Internship Opportunity for University Graduates,D111,Internship,Internship,6
+C002,Microsoft,Software Development,10000,J011,0,NULL,Uttarakhand,Data Science Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C224,PRO Unlimited,Software Development,1001,J019,0,Vadodara,Gujarat,Quality Assurance Engineer,D030,Full-time,Entry level,NULL
+C002,Microsoft,Software Development,10000,J053,0,NULL,West Bengal,Product Manager Internship Opportunity for University Graduates,D098,Internship,Internship,NULL
+C002,Microsoft,Software Development,10000,J076,0,NULL,West Bengal,Product Manager Internship Opportunity for University Graduates,D105,Internship,Internship,16
+C066,Applied Materials,Semiconductor Manufacturing,10000,J078,324976,Bengaluru,Karnataka,Data Scientist,D004,Full-time,NULL,NULL
+C251,CaratLane - A Tanishq Partnership,Retail Luxury Goods and Jewelry,501,J095,48587,Mumbai,Maharashtra,Head of Revenue Operations,D088,Full-time,Mid-Senior level,166
+C228,Target,Retail,10000,J096,0,Bengaluru,Karnataka,Associate Planner-3,D030,Full-time,Entry level,NULL
+C228,Target,Retail,10000,J104,0,Bengaluru,Karnataka,Sr Benefits Business Partner,D091,Full-time,Mid-Senior level,38
+C228,Target,Retail,10000,J114,0,Bengaluru,Karnataka,Associate Planner-3,D040,Full-time,Entry level,25
+C245,Starbucks India,Retail,1001,J131,0,Delhi,Delhi,Shift Supervisor,D084,Full-time,Mid-Senior level,NULL
+C233,Grupo Muffato,Retail,10000,J132,0,Imamganj,Bihar,Assistente de Marketing-031CAMBE,D030,Full-time,Entry level,NULL
+C204,Comercial Ivaipor√£,Retail,501,J136,0,Kalyanpur,Bihar,Encarregado Depsito,D084,Full-time,Mid-Senior level,NULL
+C137,UniAcco,Real Estate,201,J137,0,Mumbai,Maharashtra,Senior Front End Developer,D093,Full-time,Mid-Senior level,45
+C323,Tata Housing Development Company Limited,Real Estate,501,J138,175631,Mumbai,Maharashtra,General Manager - Sales Strategy,D084,Full-time,Mid-Senior level,NULL
+C054,PwC,Professional Services,10000,J158,4523008,Bengaluru,Karnataka,Manager of Machine Learning,D028,Full-time,Director,NULL
+C236,Grupo Copobras,Plastics Manufacturing,1001,J167,0,Kalyanpur,Bihar,Operador de Impressora Flexografica,D030,Full-time,Entry level,NULL
+C183,AUROBINDO PHARMA LTD,Pharmaceutical Manufacturing,10000,J169,0,Hyderabad,Telangana,Assistant - QC,D030,Full-time,Entry level,NULL
+C183,AUROBINDO PHARMA LTD,Pharmaceutical Manufacturing,10000,J174,0,Hyderabad,Telangana,Assistant - QC,D052,Full-time,Entry level,98
+C006,Indegene,Pharmaceutical Manufacturing,5001,J176,0,NULL,India,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C139,Koch Business Solutions India,Oil and Gas,1001,J177,25585,Bengaluru,Karnataka,GL Subject Matter Expert,D022,Full-time,Associate,5
+C197,Oil and Gas,Oil and Gas,1,J178,0,Delhi,Delhi,STORE KEEPER,D030,Full-time,Entry level,NULL
+C197,Oil and Gas,Oil and Gas,1,J179,0,Delhi,Delhi,STORE KEEPER,D041,Full-time,Entry level,4
+C211,CITGO,Oil and Gas,1001,J180,0,Gariaband,Chhattisgarh,Customer Service Specialist,D030,Full-time,Entry level,NULL
+C209,Grupo Aldo,Oil and Gas,1001,J201,0,Kalyanpur,Bihar,Frentista em Paran,D030,Full-time,Entry level,NULL
+C016,Mercedes-Benz Research and Development India,Motor Vehicle Manufacturing,1001,J202,0,Bangalore Urban,Karnataka,Data Scientist,D008,Full-time,Associate,NULL
+C015,Stellantis,Motor Vehicle Manufacturing,10000,J208,0,Bengaluru,Karnataka,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C069,Volvo Cars,Motor Vehicle Manufacturing,10000,J209,597195,Bengaluru,Karnataka,Data Scientist,D004,Full-time,NULL,NULL
+C003,Ford Motor Company,Motor Vehicle Manufacturing,10000,J254,0,Chennai,Tamil Nadu,Machine Learning Engineer,D045,Full-time,Entry level,78
+C003,Ford Motor Company,Motor Vehicle Manufacturing,10000,J259,0,Chennai,Tamil Nadu,Machine Learning Engineer,D047,Full-time,Entry level,81
+C003,Ford Motor Company,Motor Vehicle Manufacturing,10000,J262,0,Chennai,Tamil Nadu,Machine Learning Engineer,D048,Full-time,Entry level,83
+C003,Ford Motor Company,Motor Vehicle Manufacturing,10000,J263,0,Chennai,Tamil Nadu,Machine Learning Engineer,D049,Full-time,Entry level,85
+C003,Ford Motor Company,Motor Vehicle Manufacturing,10000,J269,0,Chennai,Tamil Nadu,Machine Learning Engineer,D030,Full-time,Entry level,NULL
+C003,Ford Motor Company,Motor Vehicle Manufacturing,10000,J274,0,Chennai,Tamil Nadu,Machine Learning Engineer,D050,Full-time,Entry level,89
+C003,Ford Motor Company,Motor Vehicle Manufacturing,10000,J276,0,Chennai,Tamil Nadu,Machine Learning Engineer,D051,Full-time,Entry level,91
+C179,Tata Steel,Mining,10000,J281,0,Kolkata,West Bengal,Project Manager - Nest IN (Planning & Control),D084,Full-time,Mid-Senior level,NULL
+C175,BD,Medical Equipment Manufacturing,10000,J284,0,Gurgaon,Haryana,"Sr. Manager, Facilities and Administration",D084,Full-time,Mid-Senior level,NULL
+C175,BD,Medical Equipment Manufacturing,10000,J286,0,Gurgaon,Haryana,"Sr. Manager, Facilities and Administration",D085,Full-time,Mid-Senior level,102
+C175,BD,Medical Equipment Manufacturing,10000,J288,0,Gurgaon,Haryana,"Sr. Manager, Facilities and Administration",D086,Full-time,Mid-Senior level,104
+C029,"ARKRAY,Inc.",Medical Equipment Manufacturing,1001,J291,33629,Pune,Maharashtra,Data Scientist,D008,Full-time,Associate,NULL
+C048,Kantar,Market Research,10000,J292,590774,Bangalore Urban,Karnataka,Consultant,D084,Full-time,Mid-Senior level,NULL
+C205,Pidilite Industries Limited,Manufacturing,1001,J312,0,Bengaluru,Karnataka,Assistant Manager - Accounts,D030,Full-time,Entry level,NULL
+C205,Pidilite Industries Limited,Manufacturing,1001,J358,0,Delhi,Delhi,Regional Logistics & Accounts Manager,D010,Full-time,Associate,107
+C170,Moda Fashion,Manufacturing,1,J359,0,Kalyanpur,Bihar,Analista Financeiro,D030,Full-time,Entry level,NULL
+C170,Moda Fashion,Manufacturing,1,J360,0,Kalyanpur,Bihar,Assistente Financeiro,D030,Full-time,Entry level,NULL
+C205,Pidilite Industries Limited,Manufacturing,1001,J361,0,Kolkata,West Bengal,Regional Customer Manager,D084,Full-time,Mid-Senior level,NULL
+C205,Pidilite Industries Limited,Manufacturing,1001,J362,0,Kolkata,West Bengal,Regional Customer Manager,D094,Full-time,Mid-Senior level,67
+C199,Procter & Gamble,Manufacturing,10000,J386,0,Mumbai,Maharashtra,Summer Internship - Finance & Accounting,D114,Part-time,Internship,NULL
+C199,Procter & Gamble,Manufacturing,10000,J400,0,Mumbai,Maharashtra,Summer Internship - Brand,D114,Part-time,Internship,NULL
+C205,Pidilite Industries Limited,Manufacturing,1001,J425,0,Mumbai,Maharashtra,Executive - Mechandising,D053,Full-time,Executive,NULL
+C199,Procter & Gamble,Manufacturing,10000,J438,0,Mumbai,Maharashtra,Summer Internship - Information Technology,D114,Part-time,Internship,NULL
+C205,Pidilite Industries Limited,Manufacturing,1001,J460,0,Mumbai,Maharashtra,Executive - Mechandising,D055,Full-time,Executive,19
+C004,Conneqt Digital,IT Services and IT Consulting,10000,J464,0,Bengaluru,Karnataka,Data Scientist,D008,Full-time,Associate,NULL
+C020,Infosys,IT Services and IT Consulting,10000,J481,0,Bengaluru,Karnataka,Data Scientist,D030,Full-time,Entry level,NULL
+C025,Amazon Web Services (AWS),IT Services and IT Consulting,10000,J511,0,Bengaluru,Karnataka,Data Scientist Intern,D004,Full-time,NULL,NULL
+C038,Tata Consultancy Services,IT Services and IT Consulting,10000,J512,0,Bengaluru,Karnataka,Data Analytics,D084,Full-time,Mid-Senior level,NULL
+C113,EXL,IT Services and IT Consulting,10000,J513,0,Bengaluru,Karnataka,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C133,Bosch Global Software Technologies,IT Services and IT Consulting,10000,J517,790661,Bengaluru,Karnataka,IN_RBEI_SAP Central Finance SME,D092,Full-time,Mid-Senior level,4
+C135,HERE Technologies,IT Services and IT Consulting,5001,J519,188072,Bengaluru,Karnataka,Sr R&D Test Engineer,D041,Full-time,Entry level,4
+C148,Concentrix,IT Services and IT Consulting,10000,J521,0,Bengaluru,Karnataka,Ops Analytics,D008,Full-time,Associate,NULL
+C223,Visa,IT Services and IT Consulting,10000,J522,0,Bengaluru,Karnataka,Sr. Software Test Engineer,D084,Full-time,Mid-Senior level,NULL
+C227,Falabella India,IT Services and IT Consulting,51,J523,0,Bengaluru,Karnataka,Executive/Senior Executive Communications,D098,Internship,Internship,NULL
+C227,Falabella India,IT Services and IT Consulting,51,J524,0,Bengaluru,Karnataka,Executive/Senior Executive Communications,D103,Internship,Internship,14
+C227,Falabella India,IT Services and IT Consulting,51,J052,0,Bengaluru,Karnataka,Executive/Senior Executive Communications,D104,Internship,Internship,15
+C008,Hexaware Technologies,IT Services and IT Consulting,10000,J429,0,Chennai,Tamil Nadu,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C146,Uplers,IT Services and IT Consulting,1001,J108,0,Chennai,Tamil Nadu,Senior Visual Designer - WFH,D084,Full-time,Mid-Senior level,NULL
+C218,Accenture in India,IT Services and IT Consulting,10000,J116,0,Chennai,Tamil Nadu,IBM Cognos TM1 Application Lead,D084,Full-time,Mid-Senior level,NULL
+C218,Accenture in India,IT Services and IT Consulting,10000,J124,0,Chennai,Tamil Nadu,Spring Boot Application Developer,D084,Full-time,Mid-Senior level,NULL
+C038,Tata Consultancy Services,IT Services and IT Consulting,10000,J190,0,Greater Hyderabad Area,Telangana,Data Analyst,D084,Full-time,Mid-Senior level,NULL
+C218,Accenture in India,IT Services and IT Consulting,10000,J299,0,Gurgaon,Haryana,New Associate-Procurement management,D030,Full-time,Entry level,NULL
+C218,Accenture in India,IT Services and IT Consulting,10000,J329,0,Gurgaon,Haryana,New Associate-Content Management,D043,Full-time,Entry level,5
+C009,Wipro,IT Services and IT Consulting,10000,J351,0,Gurugram,Haryana,Data Scientist,D008,Full-time,Associate,NULL
+C009,Wipro,IT Services and IT Consulting,10000,J392,0,Gurugram,Haryana,Product Analyst,D084,Full-time,Mid-Senior level,NULL
+C009,Wipro,IT Services and IT Consulting,10000,J450,0,Hyderabad,Telangana,Data Analyst,D004,Full-time,NULL,NULL
+C011,Sutherland,IT Services and IT Consulting,10000,J049,0,NULL,India,Data Scientist,D008,Full-time,Associate,NULL
+C012,WiseAnalytics.io,IT Services and IT Consulting,51,J339,0,NULL,India,Data Scientist,D008,Full-time,Associate,NULL
+C213,EPAM Anywhere,IT Services and IT Consulting,1001,J273,0,NULL,India,Senior SAP Spartacus Developer,D008,Full-time,Associate,NULL
+C213,EPAM Anywhere,IT Services and IT Consulting,1001,J283,0,NULL,India,Lead SAP Spartacus Developer,D084,Full-time,Mid-Senior level,NULL
+C213,EPAM Anywhere,IT Services and IT Consulting,1001,J311,0,NULL,India,Senior Perl Developer,D008,Full-time,Associate,NULL
+C134,Alight Solutions,IT Services and IT Consulting,10000,J077,121100,Kochi,Kerala,SR DM Scientist (Sen Associate),D005,Full-time,NULL,3
+C151,Infoparks Kerala,IT Services and IT Consulting,10000,J183,0,Kochi,Kerala,RPA Engineer,D030,Full-time,Entry level,NULL
+C146,Uplers,IT Services and IT Consulting,1001,J192,0,Kolkata,West Bengal,Node.js Developer,D084,Full-time,Mid-Senior level,NULL
+C107,LTI - Larsen & Toubro Infotech,IT Services and IT Consulting,10000,J199,0,NULL,Maharashtra,Data Analyst,D084,Full-time,Mid-Senior level,NULL
+C207,Capita,IT Services and IT Consulting,10000,J200,0,Mumbai,Maharashtra,Executive - Customer Services (Webchat),D008,Full-time,Associate,NULL
+C230,Mastercard,IT Services and IT Consulting,10000,J334,0,Mumbai,Maharashtra,Software engineer I,D030,Full-time,Entry level,NULL
+C207,Capita,IT Services and IT Consulting,10000,J008,0,Mumbai,Maharashtra,Executive - Customer Services (Webchat),D021,Full-time,Associate,49
+C032,HCL Technologies,IT Services and IT Consulting,10000,J013,0,Noida,Uttar Pradesh,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C099,Genpact,IT Services and IT Consulting,10000,J034,0,Noida,Uttar Pradesh,Data Analyst,D008,Full-time,Associate,NULL
+C218,Accenture in India,IT Services and IT Consulting,10000,J054,0,Open Area,Delhi,Transaction Processing New Associate,D030,Full-time,Entry level,NULL
+C218,Accenture in India,IT Services and IT Consulting,10000,J140,0,Open Area,Delhi,Transaction Processing New Associate,D046,Full-time,Entry level,8
+C214,CloudMoyo,IT Services and IT Consulting,501,J143,0,Pune,Maharashtra,Quick Fix Developer,D030,Full-time,Entry level,NULL
+C068,UST,IT Services and IT Consulting,10000,J144,0,Thiruvananthapuram,Kerala,Associate Product Manager I,D031,Full-time,Entry level,1
+C068,UST,IT Services and IT Consulting,10000,J145,0,Trivandrum,Kerala,Data Scientist,D014,Full-time,Associate,195
+C005,Trexquant Investment LP,Investment Management,51,J146,3246,Gurugram,Haryana,Quantitative Research Intern,D106,Internship,Internship,168
+C005,Trexquant Investment LP,Investment Management,51,J147,3246,Gurugram,Haryana,Quantitative Research Intern,D098,Internship,Internship,NULL
+C292,Cyberium Inc,Internet Publishing,51,J148,610,Pune,Maharashtra,Data/Research/Business Analyst,D097,Full-time,Mid-Senior level,78
+C292,Cyberium Inc,Internet Publishing,51,J149,610,Pune,Maharashtra,Data/Research/Business Analyst,D084,Full-time,Mid-Senior level,NULL
+C027,Swiss Re,Insurance,10000,J155,388361,Bengaluru,Karnataka,Junior Data Scientist,D004,Full-time,NULL,NULL
+C031,Chubb,Insurance,10000,J366,0,Bengaluru,Karnataka,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C243,Bajaj Allianz General Insurance,Insurance,5001,J368,0,Delhi,Delhi,Sales Manager - Bancassurance - Public Sector Banks,D084,Full-time,Mid-Senior level,NULL
+C007,Rolls-Royce,Industrial Machinery Manufacturing,10000,J375,1165792,Bengaluru,Karnataka,Data Engineer,D084,Full-time,Mid-Senior level,NULL
+C007,Rolls-Royce,Industrial Machinery Manufacturing,10000,J222,1165792,Bengaluru,Karnataka,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C007,Rolls-Royce,Industrial Machinery Manufacturing,10000,J227,1165792,Bengaluru,Karnataka,Transition Manager,D084,Full-time,Mid-Senior level,NULL
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J228,0,Bengaluru,Karnataka,Graduate Engineering Trainee,D060,Full-time,Internship,NULL
+C007,Rolls-Royce,Industrial Machinery Manufacturing,10000,J467,1165792,Bengaluru,Karnataka,Global Category Manager,D084,Full-time,Mid-Senior level,NULL
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J468,0,Bengaluru,Karnataka,Graduate Engineering Trainee,D070,Full-time,Internship,133
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J012,0,Mumbai,Maharashtra,Graduate Engineering Trainee,D060,Full-time,Internship,NULL
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J101,0,Mumbai,Maharashtra,Graduate Engineering Trainee,D064,Full-time,Internship,118
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J193,0,Mumbai,Maharashtra,Graduate Engineering Trainee,D072,Full-time,Internship,185
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J324,0,Mumbai,Maharashtra,Graduate Engineering Trainee,D062,Full-time,Internship,116
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J332,0,Mumbai,Maharashtra,Assistant Customer Serivce Manager,D095,Full-time,Mid-Senior level,72
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J352,0,Mumbai,Maharashtra,Graduate Engineering Trainee,D080,Full-time,Internship,74
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J374,0,Mumbai,Maharashtra,Graduate Engineering Trainee,D065,Full-time,Internship,119
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J380,0,Mumbai,Maharashtra,Graduate Engineering Trainee,D063,Full-time,Internship,117
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J401,0,Mumbai,Maharashtra,Assistant Customer Serivce Manager,D084,Full-time,Mid-Senior level,NULL
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J404,0,Pune,Maharashtra,Graduate Engineering Trainee,D060,Full-time,Internship,NULL
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J413,0,Pune,Maharashtra,Graduate Engineering Trainee,D066,Full-time,Internship,12
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J417,0,Pune,Maharashtra,Graduate Engineering Trainee,D083,Full-time,Internship,93
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J418,0,Pune,Maharashtra,Graduate Engineering Trainee,D075,Full-time,Internship,47
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J421,0,Pune,Maharashtra,Graduate Engineering Trainee,D077,Full-time,Internship,53
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J442,0,Pune,Maharashtra,Graduate Engineering Trainee,D074,Full-time,Internship,39
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J447,0,Pune,Maharashtra,Graduate Engineering Trainee,D069,Full-time,Internship,132
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J032,0,Pune,Maharashtra,Graduate Engineering Trainee,D067,Full-time,Internship,121
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J036,0,Pune,Maharashtra,Graduate Engineering Trainee,D061,Full-time,Internship,100
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J039,0,Pune,Maharashtra,Graduate Engineering Trainee,D081,Full-time,Internship,81
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J048,0,Pune,Maharashtra,Graduate Engineering Trainee,D062,Full-time,Internship,116
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J051,0,Pune,Maharashtra,Graduate Engineering Trainee,D068,Full-time,Internship,13
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J056,0,Pune,Maharashtra,Graduate Engineering Trainee,D078,Full-time,Internship,54
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J072,0,Pune,Maharashtra,Graduate Engineering Trainee,D076,Full-time,Internship,50
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J074,0,Pune,Maharashtra,Graduate Engineering Trainee,D073,Full-time,Internship,22
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J075,0,Pune,Maharashtra,Graduate Engineering Trainee,D071,Full-time,Internship,16
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J081,0,Pune,Maharashtra,Graduate Engineering Trainee,D070,Full-time,Internship,133
+C200,Johnson Controls,Industrial Machinery Manufacturing,10000,J105,0,Pune,Maharashtra,Graduate Engineering Trainee,D082,Full-time,Internship,82
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J111,0,Coimbatore South,Tamil Nadu,Medical transcription/Medical Scribing,D057,Full-time,Executive,26
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J123,0,Coimbatore South,Tamil Nadu,Medical transcription/Medical Scribing,D056,Full-time,Executive,22
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J134,0,Coimbatore South,Tamil Nadu,Medical transcription/Medical Scribing,D053,Full-time,Executive,NULL
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J141,0,Hyderabad,Telangana,Customer Support Semi Voice - Hyderabad,D053,Full-time,Executive,NULL
+C232,JR ASSESSORIA EM RH,Human Resources Services,51,J152,0,Imamganj,Bihar,Assistente de Compras,D030,Full-time,Entry level,NULL
+C232,JR ASSESSORIA EM RH,Human Resources Services,51,J156,0,Imamganj,Bihar,Assistente de Compras,D039,Full-time,Entry level,2
+C322,RHF Talentos,Human Resources Services,11,J160,99658,Kalyanpur,Bihar,Gerente Comercial De Filial,D009,Full-time,Associate,1
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J161,0,Kolkata,West Bengal,Urgent Opening for IT Recruiter-WFH,D053,Full-time,Executive,NULL
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J162,0,Kolkata,West Bengal,Virtual Assistant(Freelance),D001,Contract,Associate,NULL
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J207,0,Kolkata,West Bengal,Virtual Assistant(Freelance),D002,Contract,Associate,80
+C193,2COMS Consulting Pvt. Ltd.,Human Resources Services,10000,J225,0,Kolkata,West Bengal,Urgent Opening for IT Recruiter-WFH,D054,Full-time,Executive,14
+C296,i4 HR Consulting : Reimagining HR Blueprints,Human Resources Services,11,J226,7873,Mumbai,Maharashtra,Executive Assistant - CEO,D024,Full-time,Associate,54
+C296,i4 HR Consulting : Reimagining HR Blueprints,Human Resources Services,11,J232,7873,Mumbai,Maharashtra,Executive Assistant - CEO,D008,Full-time,Associate,NULL
+C022,nference,Hospitals and Health Care,201,J255,39403,Bengaluru,Karnataka,Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C111,IQVIA,Hospitals and Health Care,10000,J258,0,Bengaluru,Karnataka,"AD, Quality Assurance CFSP",D004,Full-time,NULL,NULL
+C111,IQVIA,Hospitals and Health Care,10000,J270,0,Bengaluru,Karnataka,Data Analyst,D008,Full-time,Associate,NULL
+C147,Philips,Hospitals and Health Care,10000,J313,0,Chennai,Tamil Nadu,Catalog Manager,D004,Full-time,NULL,NULL
+C202,Westin Hotels & Resorts,Hospitality,5001,J314,0,NULL,Goa,Sales Manager - Mumbai Based,D030,Full-time,Entry level,NULL
+C202,Westin Hotels & Resorts,Hospitality,5001,J318,0,NULL,Goa,Sales Manager - Mumbai Based,D032,Full-time,Entry level,11
+C241,Sheraton Hotels & Resorts,Hospitality,1001,J319,433755,Hyderabad,Telangana,Sales Manager,D041,Full-time,Entry level,4
+C231,Grupo Elfa,Health and Human Services,1001,J320,0,Imamganj,Bihar,Gerente de E-commerce,D030,Full-time,Entry level,NULL
+C332,Rootbridge,Fundraising,51,J364,1638,Bengaluru,Karnataka,Social Impact Executive,D059,Full-time,Executive,9
+C235,WayCool Foods,Food and Beverage Services,1001,J365,0,Chennai,Tamil Nadu,Supply Chain - Operations In-charge,D084,Full-time,Mid-Senior level,NULL
+C142,Tyson Foods India,Food and Beverage Manufacturing,10000,J372,17139,Bengaluru,Karnataka,Sr Workday Analyst - Reporting & Prism,D026,Full-time,Associate,83
+C169,GTFoods Group,Food and Beverage Manufacturing,10000,J383,0,Imamganj,Bihar,Assistente Administrativo,D030,Full-time,Entry level,NULL
+C169,GTFoods Group,Food and Beverage Manufacturing,10000,J384,0,Imamganj,Bihar,Assistente Administrativo,D043,Full-time,Entry level,5
+C169,GTFoods Group,Food and Beverage Manufacturing,10000,J408,0,Kalyanpur,Bihar,Auxiliar Geral- Eta Ete,D030,Full-time,Entry level,NULL
+C169,GTFoods Group,Food and Beverage Manufacturing,10000,J414,0,Kalyanpur,Bihar,Auxiliar de Servios Gerais,D030,Full-time,Entry level,NULL
+C169,GTFoods Group,Food and Beverage Manufacturing,10000,J437,0,Kalyanpur,Bihar,Analista de Planejamento Jr - Adm Industria,D008,Full-time,Associate,NULL
+C071,Navi,Financial Services,501,J443,162210,Bangalore Urban,Karnataka,Data Analyst - Internship,D098,Internship,Internship,NULL
+C049,American Express,Financial Services,10000,J453,1700423,Bengaluru,Karnataka,Analyst-Data Science,D030,Full-time,Entry level,NULL
+C075,Zolve,Financial Services,51,J459,0,Bengaluru,Karnataka,Credit Risk Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C217,Wells Fargo,Financial Services,10000,J461,0,Bengaluru,Karnataka,Senior Software Engineer,D084,Full-time,Mid-Senior level,NULL
+C229,Barclays Corporate & Investment Bank,Financial Services,10000,J462,0,Bengaluru,Karnataka,Private Banking Executive,D008,Full-time,Associate,NULL
+C229,Barclays Corporate & Investment Bank,Financial Services,10000,J463,0,Bengaluru,Karnataka,Private Banking Executive,D013,Full-time,Associate,16
+C138,Fidelity Investments,Financial Services,10000,J465,712188,Chennai,Tamil Nadu,Lead - QA Engineer - Full stack,D007,Full-time,NULL,6
+C201,CRISIL Limited,Financial Services,1001,J466,0,Chennai,Tamil Nadu,CA Fresher- Equity Research- Immediate Joiners required -Chennai,D060,Full-time,Internship,NULL
+C201,CRISIL Limited,Financial Services,1001,J474,0,Chennai,Tamil Nadu,CA Fresher- Equity Research- Immediate Joiners required -Chennai,D079,Full-time,Internship,7
+C185,Barclays,Financial Services,10000,J516,0,Delhi,Delhi,Assistant Manager Sourcing,D008,Full-time,Associate,NULL
+C185,Barclays,Financial Services,10000,J518,0,Delhi,Delhi,Assistant Manager Sourcing,D115,Full-time,Associate,8
+C049,American Express,Financial Services,10000,J231,1700423,Gurgaon,Haryana,Analyst-Data Science,D030,Full-time,Entry level,NULL
+C114,Aon,Financial Services,10000,J247,0,Gurugram,Haryana,Data Analyst,D008,Full-time,Associate,NULL
+C154,D. E. Shaw India Private Limited,Financial Services,501,J499,0,Hyderabad,Telangana,Analyst/Data Analytics,D030,Full-time,Entry level,NULL
+C186,Delta Exchange,Financial Services,11,J506,0,NULL,India,Business Analyst,D008,Full-time,Associate,NULL
+C206,Cooper Card Administradora de Cart√µes Ltda,Financial Services,201,J510,0,Kalyanpur,Bihar,Auxiliar Administrativo,D030,Full-time,Entry level,NULL
+C206,Cooper Card Administradora de Cart√µes Ltda,Financial Services,201,J040,0,Kalyanpur,Bihar,Auxiliar Administrativo,D041,Full-time,Entry level,4
+C237,Godrej Capital,Financial Services,201,J042,0,Mumbai,Maharashtra,Assistant Product Manager,D008,Full-time,Associate,NULL
+C185,Barclays,Financial Services,10000,J059,0,Pune,Maharashtra,Business Analyst,D008,Full-time,Associate,NULL
+C185,Barclays,Financial Services,10000,J060,0,Pune,Maharashtra,Business Analyst,D025,Full-time,Associate,6
+C239,Setrata,Facilities Services,51,J068,0,Imamganj,Bihar,Auxiliar de Operao,D030,Full-time,Entry level,NULL
+C210,The Walt Disney Company,Entertainment Providers,10000,J189,0,Mumbai,Maharashtra,"Associate Director - Marketing, Star Sports",D028,Full-time,Director,NULL
+C234,Playto Labs,E-Learning Providers,11,J063,0,Bengaluru,Karnataka,Customer Success Associate,D030,Full-time,Entry level,NULL
+C234,Playto Labs,E-Learning Providers,11,J064,0,Bengaluru,Karnataka,Customer Success Associate,D034,Full-time,Entry level,15
+C033,Packt,E-Learning Providers,201,J098,66548,Mumbai,Maharashtra,Graduate Data Scientist,D060,Full-time,Internship,NULL
+C036,Samsung India,Computers and Electronics Manufacturing,10000,J100,0,Bangalore Urban,Karnataka,Data Scientist/Senior Data Scientist/Principal Data Scientist,D084,Full-time,Mid-Senior level,NULL
+C024,Apple,Computers and Electronics Manufacturing,10000,J110,0,Hyderabad,Telangana,Machine Learning Engineer,D004,Full-time,NULL,NULL
+C182,qSEAp Infotech Pvt Ltd,Computer and Network Security,201,J112,0,Bangalore Urban district,Karnataka,Marketing Intern,D053,Full-time,Executive,NULL
+C182,qSEAp Infotech Pvt Ltd,Computer and Network Security,201,J127,0,Bangalore Urban district,Karnataka,Marketing Intern,D058,Full-time,Executive,3
+C248,SonicWall,Computer and Network Security,1001,J128,73796,Bengaluru,Karnataka,Sales Development Rep - Remote**,D049,Full-time,Entry level,85
+C021,SABIC,Chemical Manufacturing,10000,J129,0,Bengaluru,Karnataka,Data Scientist,D001,Contract,Associate,NULL
+C225,LyondellBasell,Chemical Manufacturing,10000,J402,0,Mumbai,Maharashtra,Procurement Engineer - Contracting & Procurement,D008,Full-time,Associate,NULL
+C219,H.B. Fuller,Chemical Manufacturing,5001,J431,0,Pune,Maharashtra,SAP IT Analyst RTR,D003,Contract,Entry level,NULL
+C191,PwC India,Business Consulting and Services,5001,J432,0,Ahmedabad,Gujarat,Associate,D030,Full-time,Entry level,NULL
+C194,KPMG India,Business Consulting and Services,10000,J433,0,Bengaluru,Karnataka,Head of Marketing,D008,Full-time,Associate,NULL
+C191,PwC India,Business Consulting and Services,5001,J440,0,Delhi,Delhi,Associate,D030,Full-time,Entry level,NULL
+C108,McKinsey & Company,Business Consulting and Services,10000,J441,0,Gurgaon,Haryana,Data Analyst,D008,Full-time,Associate,NULL
+C191,PwC India,Business Consulting and Services,5001,J444,0,Hyderabad,Telangana,Associate,D030,Full-time,Entry level,NULL
+C172,MS Consultoria,Business Consulting and Services,1,J445,0,Imamganj,Bihar,Assistente Administrativo - Estoque,D030,Full-time,Entry level,NULL
+C172,MS Consultoria,Business Consulting and Services,1,J446,0,Imamganj,Bihar,Assistente Administrativo - Estoque,D031,Full-time,Entry level,1
+C246,JMS ADVISORY SERVICES PRIVATE LIMITED,Business Consulting and Services,11,J452,0,NULL,India,Valuation Analyst,D084,Full-time,Mid-Senior level,NULL
+C194,KPMG India,Business Consulting and Services,10000,J455,0,Mumbai,Maharashtra,Vendor Onboarding - Analyst,D030,Full-time,Entry level,NULL
+C149,Becton Dickenson,Biotechnology Research,51,J472,0,Bengaluru,Karnataka,We are Hiring Omni-Channel Specialist,D030,Full-time,Entry level,NULL
+C216,Standard Chartered Bank,Banking,10000,J483,0,Chennai,Tamil Nadu,"Associate Vice President, Group AML CDD Tax Retail Clients",D030,Full-time,Entry level,NULL
+C180,Bandhan Bank,Banking,10000,J484,0,Kolkata,West Bengal,RECRUITMENT BANDHAN BANK LIMITED,D030,Full-time,Entry level,NULL
+C180,Bandhan Bank,Banking,10000,J485,0,Kolkata,West Bengal,RECRUITMENT BANDHAN BANK LIMITED,D042,Full-time,Entry level,42
+C247,IDFC FIRST Bank,Banking,10000,J486,819544,Navi Mumbai,Maharashtra,Transaction Monitoring Officer,D044,Full-time,Entry level,6
+C180,Bandhan Bank,Banking,10000,J487,0,Raniganj,Bihar,Bandhan Bank Back office executive Jobs - Kolkata,D008,Full-time,Associate,NULL
+C152,Boeing,Aviation and Aerospace Component Manufacturing,10000,J488,0,Bengaluru,Karnataka,Experienced Software Programmer - Java Full Stack,D004,Full-time,NULL,NULL
+C220,Collins Aerospace,Aviation and Aerospace Component Manufacturing,10000,J489,0,Hyderabad,Telangana,Senior Lead Engineer,D008,Full-time,Associate,NULL
+C155,TE Connectivity,"Appliances, Electrical, and Electronics Manufacturing",10000,J490,0,Bengaluru,Karnataka,Data Analyst,D084,Full-time,Mid-Senior level,NULL
+C198,Honeywell,"Appliances, Electrical, and Electronics Manufacturing",10000,J491,0,Pune,Maharashtra,Customer Service Executive,D008,Full-time,Associate,NULL
+C143,WPP,Advertising Services,10000,J492,305719,Chennai,Tamil Nadu,Senior FinOps Developer,D017,Full-time,Associate,2
+C184,Niswey,Advertising Services,11,J493,0,Faridabad,Haryana,Head of Customer Success,D084,Full-time,Mid-Senior level,NULL
+C184,Niswey,Advertising Services,11,J494,0,Faridabad,Haryana,Head of Customer Success,D087,Full-time,Mid-Senior level,16
+C178,ResultPubli,Advertising Services,51,J495,0,Kalyanpur,Bihar,Social Media,D030,Full-time,Entry level,NULL
+C178,ResultPubli,Advertising Services,51,J496,0,Kalyanpur,Bihar,Social Media,D031,Full-time,Entry level,1
+C144,EY,Accounting,10000,J500,6646031,Bengaluru,Karnataka,Business Analyst,D084,Full-time,Mid-Senior level,NULL
+C144,EY,Accounting,10000,J502,6646031,Gurugram,Haryana,Adobe Analytics Solution Architect,D090,Full-time,Mid-Senior level,21
+C144,EY,Accounting,10000,J503,6646031,Gurugram,Haryana,Adobe Analytics Solution Architect,D089,Full-time,Mid-Senior level,17
+C144,EY,Accounting,10000,J504,6646031,Gurugram,Haryana,Assistant Manager - Assurance - National - FAAS-Financial&AccountingAdv - Gurgaon,D084,Full-time,Mid-Senior level,NULL
