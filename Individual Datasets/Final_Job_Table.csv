@@ -1,0 +1,525 @@
+Job_ID,Company_ID,Location_City,Location_State,Designation,Details_ID
+J001,C174,Ahmedabad,Gujarat,Manual Tester,D084
+J002,C174,Ahmedabad,Gujarat,Manual Tester,D084
+J003,C191,Ahmedabad,Gujarat,Associate,D030
+J004,C174,Ahmedabad,Gujarat,Manual Tester,D096
+J005,C174,Ahmedabad,Gujarat,Manual Tester,D096
+J006,C002,,Andhra Pradesh,Data Science Internship Opportunity for University Graduates,D098
+J007,C002,,Assam,Data Science Internship Opportunity for University Graduates,D098
+J008,C016,Bangalore Urban,Karnataka,Data Scientist,D008
+J009,C026,Bangalore Urban,Karnataka,Data Analyst,D008
+J010,C036,Bangalore Urban,Karnataka,Data Scientist/Senior Data Scientist/Principal Data Scientist,D084
+J011,C026,Bangalore Urban,Karnataka,Data Analyst,D008
+J012,C048,Bangalore Urban,Karnataka,Consultant,D084
+J013,C016,Bangalore Urban,Karnataka,Data Scientist,D008
+J014,C071,Bangalore Urban,Karnataka,Data Analyst - Internship,D098
+J015,C036,Bangalore Urban,Karnataka,Data Scientist/Senior Data Scientist/Principal Data Scientist,D084
+J016,C071,Bangalore Urban,Karnataka,Data Analyst - Internship,D098
+J017,C071,Bangalore Urban,Karnataka,Data Analyst - Internship,D098
+J018,C071,Bangalore Urban,Karnataka,Data Analyst - Internship,D098
+J019,C222,Bangalore Urban,Karnataka,Senior Software Engineer DLC,D008
+J020,C030,Bangalore Urban district,Karnataka,Data Scientist,D004
+J021,C030,Bangalore Urban district,Karnataka,Data Scientist,D004
+J022,C171,Bangalore Urban district,Karnataka,Associate,D030
+J023,C182,Bangalore Urban district,Karnataka,Marketing Intern,D053
+J024,C171,Bangalore Urban district,Karnataka,Associate,D030
+J025,C171,Bangalore Urban district,Karnataka,Associate,D033
+J026,C171,Bangalore Urban district,Karnataka,Associate,D033
+J027,C182,Bangalore Urban district,Karnataka,Marketing Intern,D058
+J028,C171,Bangalore Urban district,Karnataka,Associate,D033
+J029,C176,Barmer,Rajasthan,Field HSE Supervisor,D008
+J030,C176,Barmer,Rajasthan,Field HSE Supervisor,D019
+J031,C176,Barmer,Rajasthan,Field HSE Supervisor,D019
+J032,C004,Bengaluru,Karnataka,Data Scientist,D008
+J033,C007,Bengaluru,Karnataka,Data Scientist,D084
+J034,C015,Bengaluru,Karnataka,Data Scientist,D084
+J035,C019,Bengaluru,Karnataka,Data Scientist,D084
+J036,C020,Bengaluru,Karnataka,Data Scientist,D030
+J037,C021,Bengaluru,Karnataka,Data Scientist,D001
+J038,C022,Bengaluru,Karnataka,Data Scientist,D084
+J039,C025,Bengaluru,Karnataka,Data Scientist Intern,D004
+J040,C027,Bengaluru,Karnataka,Junior Data Scientist,D004
+J041,C023,Bengaluru,Karnataka,Analytics & Insight Analyst,D030
+J042,C031,Bengaluru,Karnataka,Data Scientist,D084
+J043,C023,Bengaluru,Karnataka,Analytics and Insights Analyst,D037
+J044,C023,Bengaluru,Karnataka,Analytics & Insight Analyst,D030
+J045,C027,Bengaluru,Karnataka,Junior Data Scientist,D004
+J046,C047,Bengaluru,Karnataka,Data Analyst,D035
+J047,C049,Bengaluru,Karnataka,Analyst-Data Science,D030
+J048,C020,Bengaluru,Karnataka,Data Scientist,D030
+J049,C054,Bengaluru,Karnataka,Manager of Machine Learning,D028
+J050,C007,Bengaluru,Karnataka,Data Scientist,D084
+J051,C038,Bengaluru,Karnataka,Data Analytics,D084
+J052,C066,Bengaluru,Karnataka,Data Scientist,D004
+J053,C067,Bengaluru,Karnataka,Data Scientist [Fresher],D008
+J054,C069,Bengaluru,Karnataka,Data Scientist,D004
+J055,C072,Bengaluru,Karnataka,Data Scientist,D053
+J056,C025,Bengaluru,Karnataka,Data Scientist Intern,D004
+J057,C022,Bengaluru,Karnataka,Data Scientist,D084
+J058,C075,Bengaluru,Karnataka,Credit Risk Data Scientist,D084
+J059,C027,Bengaluru,Karnataka,Junior Data Scientist,D004
+J060,C031,Bengaluru,Karnataka,Data Scientist,D084
+J061,C023,Bengaluru,Karnataka,Analytics & Insight Analyst,D030
+J062,C030,Bengaluru,Karnataka,Data Analyst 2,D004
+J063,C007,Bengaluru,Karnataka,Data Engineer,D084
+J064,C007,Bengaluru,Karnataka,Data Scientist,D084
+J065,C025,Bengaluru,Karnataka,Data Scientist Intern,D004
+J066,C030,Bengaluru,Karnataka,Data Scientist 1,D004
+J067,C019,Bengaluru,Karnataka,Data Scientist,D084
+J068,C027,Bengaluru,Karnataka,Junior Data Scientist,D004
+J069,C023,Bengaluru,Karnataka,Analytics and Insights Analyst,D030
+J070,C110,Bengaluru,Karnataka,Data Scientist,D084
+J071,C111,Bengaluru,Karnataka,Data Analyst,D008
+J072,C113,Bengaluru,Karnataka,Data Scientist,D084
+J073,C007,Bengaluru,Karnataka,Data Scientist,D084
+J074,C133,Bengaluru,Karnataka,IN_RBEI_SAP Central Finance SME,D092
+J075,C135,Bengaluru,Karnataka,Sr R&D Test Engineer,D041
+J076,C136,Bengaluru,Karnataka,Senior Technical Consultant (Salesforce Developer),D006
+J077,C139,Bengaluru,Karnataka,GL Subject Matter Expert,D022
+J078,C141,Bengaluru,Karnataka,Senior Software Development Engineer in Test (Senior SDET),D027
+J079,C142,Bengaluru,Karnataka,Sr Workday Analyst - Reporting & Prism,D026
+J080,C111,Bengaluru,Karnataka,"AD, Quality Assurance CFSP",D004
+J081,C148,Bengaluru,Karnataka,Ops Analytics,D008
+J082,C149,Bengaluru,Karnataka,We are Hiring Omni-Channel Specialist,D030
+J083,C152,Bengaluru,Karnataka,Experienced Software Programmer - Java Full Stack,D004
+J084,C111,Bengaluru,Karnataka,Data Analyst,D008
+J085,C023,Bengaluru,Karnataka,Analytics and Insights Analyst,D030
+J086,C155,Bengaluru,Karnataka,Data Analyst,D084
+J087,C110,Bengaluru,Karnataka,Data Analyst,D008
+J088,C019,Bengaluru,Karnataka,Data Scientist,D084
+J089,C007,Bengaluru,Karnataka,Data Scientist,D084
+J090,C023,Bengaluru,Karnataka,Analytics and Insights Analyst,D038
+J091,C110,Bengaluru,Karnataka,Data Analyst,D008
+J092,C007,Bengaluru,Karnataka,Data Scientist,D084
+J093,C189,Bengaluru,Karnataka,Graphic Designer,D028
+J094,C144,Bengaluru,Karnataka,Business Analyst,D084
+J095,C192,Bengaluru,Karnataka,Manual Tester- (For Night Shift),D030
+J096,C196,Bengaluru,Karnataka,Associate Data Scientist,D008
+J097,C194,Bengaluru,Karnataka,Head of Marketing,D008
+J098,C007,Bengaluru,Karnataka,Transition Manager,D084
+J099,C194,Bengaluru,Karnataka,Head of Marketing,D008
+J100,C200,Bengaluru,Karnataka,Graduate Engineering Trainee,D060
+J101,C205,Bengaluru,Karnataka,Assistant Manager - Accounts,D030
+J102,C194,Bengaluru,Karnataka,Head of Marketing,D008
+J103,C217,Bengaluru,Karnataka,Senior Software Engineer,D084
+J104,C221,Bengaluru,Karnataka,"Senior Software Engineer, Backend - Infra",D008
+J105,C223,Bengaluru,Karnataka,Sr. Software Test Engineer,D084
+J106,C194,Bengaluru,Karnataka,Head of Marketing,D008
+J107,C227,Bengaluru,Karnataka,Executive/Senior Executive Communications,D098
+J108,C228,Bengaluru,Karnataka,Associate Planner-3,D030
+J109,C229,Bengaluru,Karnataka,Private Banking Executive,D008
+J110,C200,Bengaluru,Karnataka,Graduate Engineering Trainee,D060
+J111,C227,Bengaluru,Karnataka,Executive/Senior Executive Communications,D098
+J112,C200,Bengaluru,Karnataka,Graduate Engineering Trainee,D060
+J113,C234,Bengaluru,Karnataka,Customer Success Associate,D030
+J114,C192,Bengaluru,Karnataka,Manual Tester- (For Night Shift),D030
+J115,C205,Bengaluru,Karnataka,Assistant Manager - Accounts,D030
+J116,C228,Bengaluru,Karnataka,Sr Benefits Business Partner,D091
+J117,C226,Bengaluru,Karnataka,Manager - Strategy,D008
+J118,C248,Bengaluru,Karnataka,Sales Development Rep - Remote**,D049
+J119,C189,Bengaluru,Karnataka,Graphic Designer,D028
+J120,C189,Bengaluru,Karnataka,Graphic Designer,D028
+J121,C234,Bengaluru,Karnataka,Customer Success Associate,D034
+J122,C192,Bengaluru,Karnataka,Manual Tester- (For Night Shift),D030
+J123,C227,Bengaluru,Karnataka,Executive/Senior Executive Communications,D103
+J124,C228,Bengaluru,Karnataka,Associate Planner-3,D040
+J125,C229,Bengaluru,Karnataka,Private Banking Executive,D013
+J126,C189,Bengaluru,Karnataka,Graphic Designer,D028
+J127,C007,Bengaluru,Karnataka,Global Category Manager,D084
+J128,C200,Bengaluru,Karnataka,Graduate Engineering Trainee,D070
+J129,C007,Bengaluru,Karnataka,Global Category Manager,D084
+J130,C194,Bengaluru,Karnataka,Head of Marketing,D008
+J131,C192,Bengaluru,Karnataka,Manual Tester- (For Night Shift),D030
+J132,C331,Bengaluru,Karnataka,Head of Customer Success,D029
+J133,C332,Bengaluru,Karnataka,Social Impact Executive,D059
+J134,C227,Bengaluru,Karnataka,Executive/Senior Executive Communications,D104
+J135,C229,Bengaluru,Karnataka,Private Banking Executive,D013
+J136,C192,Bengaluru,Karnataka,Manual Tester- (For Night Shift),D030
+J137,C002,Chandigarh,Chandigarh,Data Science Internship Opportunity for University Graduates,D104
+J138,C002,Chandigarh,Chandigarh,Data Science Internship Opportunity for University Graduates,D098
+J139,C002,Chandigarh,Chandigarh,Data Science Internship Opportunity for University Graduates,D104
+J140,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D045
+J141,C008,Chennai,Tamil Nadu,Data Scientist,D084
+J142,C008,Chennai,Tamil Nadu,Data Scientist,D084
+J143,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D047
+J144,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D048
+J145,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D049
+J146,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D030
+J147,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D050
+J148,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D051
+J149,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D051
+J150,C138,Chennai,Tamil Nadu,Lead - QA Engineer - Full stack,D007
+J151,C143,Chennai,Tamil Nadu,Senior FinOps Developer,D017
+J152,C146,Chennai,Tamil Nadu,Senior Visual Designer - WFH,D084
+J153,C147,Chennai,Tamil Nadu,Catalog Manager,D004
+J154,C150,Chennai,Tamil Nadu,Excel Developer,D030
+J155,C003,Chennai,Tamil Nadu,Machine Learning Engineer,D030
+J156,C008,Chennai,Tamil Nadu,Data Scientist,D084
+J157,C201,Chennai,Tamil Nadu,CA Fresher- Equity Research- Immediate Joiners required -Chennai,D060
+J158,C215,Chennai,Tamil Nadu,Senior Software Engineer,D084
+J159,C216,Chennai,Tamil Nadu,"Associate Vice President, Group AML CDD Tax Retail Clients",D030
+J160,C218,Chennai,Tamil Nadu,IBM Cognos TM1 Application Lead,D084
+J161,C218,Chennai,Tamil Nadu,Spring Boot Application Developer,D084
+J162,C218,Chennai,Tamil Nadu,Spring Boot Application Developer,D084
+J163,C201,Chennai,Tamil Nadu,CA Fresher- Equity Research- Immediate Joiners required -Chennai,D060
+J164,C201,Chennai,Tamil Nadu,CA Fresher- Equity Research- Immediate Joiners required -Chennai,D060
+J165,C235,Chennai,Tamil Nadu,Supply Chain - Operations In-charge,D084
+J166,C201,Chennai,Tamil Nadu,CA Fresher- Equity Research- Immediate Joiners required -Chennai,D079
+J167,C195,Chennai,Tamil Nadu,Project Management Officer,D095
+J168,C201,Chennai,Tamil Nadu,CA Fresher- Equity Research- Immediate Joiners required -Chennai,D079
+J169,C195,Chennai,Tamil Nadu,Project Management Officer,D084
+J170,C193,Coimbatore South,Tamil Nadu,Medical transcription/Medical Scribing,D057
+J171,C193,Coimbatore South,Tamil Nadu,Medical transcription/Medical Scribing,D056
+J172,C193,Coimbatore South,Tamil Nadu,Medical transcription/Medical Scribing,D053
+J173,C193,Coimbatore South,Tamil Nadu,Medical transcription/Medical Scribing,D053
+J174,C002,,Daman and Diu,Data Science Internship Opportunity for University Graduates,D099
+J175,C002,,Daman and Diu,Data Science Internship Opportunity for University Graduates,D098
+J176,C002,,Daman and Diu,Data Science Internship Opportunity for University Graduates,D098
+J177,C002,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D100
+J178,C002,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D101
+J179,C002,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D098
+J180,C002,Delhi,Delhi,Data Science Internship Opportunity for University Graduates,D102
+J181,C191,Delhi,Delhi,Associate,D030
+J182,C191,Delhi,Delhi,Associate,D030
+J183,C197,Delhi,Delhi,STORE KEEPER,D030
+J184,C197,Delhi,Delhi,STORE KEEPER,D030
+J185,C191,Delhi,Delhi,Associate,D030
+J186,C185,Delhi,Delhi,Assistant Manager Sourcing,D008
+J187,C185,Delhi,Delhi,Assistant Manager Sourcing,D008
+J188,C197,Delhi,Delhi,STORE KEEPER,D030
+J189,C243,Delhi,Delhi,Sales Manager - Bancassurance - Public Sector Banks,D084
+J190,C245,Delhi,Delhi,Shift Supervisor,D084
+J191,C185,Delhi,Delhi,Assistant Manager Sourcing,D115
+J192,C197,Delhi,Delhi,STORE KEEPER,D041
+J193,C205,Delhi,Delhi,Regional Logistics & Accounts Manager,D010
+J194,C185,Delhi,Delhi,Assistant Manager Sourcing,D115
+J195,C191,Delhi,Delhi,Associate,D030
+J196,C184,Faridabad,Haryana,Head of Customer Success,D084
+J197,C184,Faridabad,Haryana,Head of Customer Success,D087
+J198,C184,Faridabad,Haryana,Head of Customer Success,D084
+J199,C211,Gariaband,Chhattisgarh,Customer Service Specialist,D030
+J200,C211,Gariaband,Chhattisgarh,Customer Service Specialist,D030
+J201,C002,,Goa,Data Science Internship Opportunity for University Graduates,D109
+J202,C002,,Goa,Data Science Internship Opportunity for University Graduates,D098
+J203,C002,,Goa,Data Science Internship Opportunity for University Graduates,D109
+J204,C202,,Goa,Sales Manager - Mumbai Based,D030
+J205,C202,,Goa,Sales Manager - Mumbai Based,D032
+J206,C202,,Goa,Sales Manager - Mumbai Based,D032
+J207,C038,Greater Hyderabad Area,Telangana,Data Analyst,D084
+J208,C002,,Gujarat,Data Science Internship Opportunity for University Graduates,D110
+J209,C002,,Gujarat,Data Science Internship Opportunity for University Graduates,D098
+J210,C002,,Gujarat,Data Science Internship Opportunity for University Graduates,D098
+J211,C023,Gurgaon,Haryana,Analytics & Insight Analyst,D030
+J212,C023,Gurgaon,Haryana,Analytics and Insights Analyst,D036
+J213,C023,Gurgaon,Haryana,Analytics & Insight Analyst,D030
+J214,C023,Gurgaon,Haryana,Analytics and Insights Analyst,D030
+J215,C108,Gurgaon,Haryana,Data Analyst,D008
+J216,C108,Gurgaon,Haryana,Data Analyst,D008
+J217,C049,Gurgaon,Haryana,Analyst-Data Science,D030
+J218,C049,Gurgaon,Haryana,Analyst-Data Science,D030
+J219,C023,Gurgaon,Haryana,Analytics and Insights Analyst,D036
+J220,C049,Gurgaon,Haryana,Analyst-Data Science,D030
+J221,C171,Gurgaon,Haryana,Associate,D030
+J222,C175,Gurgaon,Haryana,"Sr. Manager, Facilities and Administration",D084
+J223,C171,Gurgaon,Haryana,Associate,D030
+J224,C171,Gurgaon,Haryana,Associate,D030
+J225,C218,Gurgaon,Haryana,New Associate-Procurement management,D030
+J226,C218,Gurgaon,Haryana,New Associate-Content Management,D043
+J227,C175,Gurgaon,Haryana,"Sr. Manager, Facilities and Administration",D085
+J228,C175,Gurgaon,Haryana,"Sr. Manager, Facilities and Administration",D086
+J229,C171,Gurgaon,Haryana,Associate,D030
+J230,C001,Gurugram,Haryana,Data Scientist,D008
+J231,C005,Gurugram,Haryana,Quantitative Research Intern,D106
+J232,C009,Gurugram,Haryana,Data Scientist,D008
+J233,C001,Gurugram,Haryana,Data Scientist,D008
+J234,C001,Gurugram,Haryana,Data Scientist,D008
+J235,C001,Gurugram,Haryana,Product Analyst,D008
+J236,C009,Gurugram,Haryana,Data Scientist,D008
+J237,C034,Gurugram,Haryana,Data Analyst,D084
+J238,C035,Gurugram,Haryana,Business Analyst,D084
+J239,C034,Gurugram,Haryana,Data Analyst,D084
+J240,C009,Gurugram,Haryana,Data Scientist,D008
+J241,C001,Gurugram,Haryana,Product Analyst,D008
+J242,C114,Gurugram,Haryana,Data Analyst,D008
+J243,C001,Gurugram,Haryana,Data Scientist,D008
+J244,C144,Gurugram,Haryana,Adobe Analytics Solution Architect,D090
+J245,C144,Gurugram,Haryana,Adobe Analytics Solution Architect,D089
+J246,C009,Gurugram,Haryana,Data Scientist,D008
+J247,C005,Gurugram,Haryana,Quantitative Research Intern,D098
+J248,C034,Gurugram,Haryana,Data Analyst,D084
+J249,C157,Gurugram,Haryana,Manager / Sr. Manager ‚Äì Business Intelligence,D084
+J250,C005,Gurugram,Haryana,Quantitative Research Intern,D098
+J251,C034,Gurugram,Haryana,Data Analyst,D084
+J252,C114,Gurugram,Haryana,Data Analyst,D008
+J253,C009,Gurugram,Haryana,Data Scientist,D008
+J254,C181,Gurugram,Haryana,Test Lead,D008
+J255,C009,Gurugram,Haryana,Product Analyst,D084
+J256,C001,Gurugram,Haryana,Data Scientist,D008
+J257,C144,Gurugram,Haryana,Assistant Manager - Assurance - National - FAAS-Financial&AccountingAdv - Gurgaon,D084
+J258,C009,Gurugram,Haryana,Product Analyst,D084
+J259,C181,Gurugram,Haryana,Test Lead,D020
+J260,C181,Gurugram,Haryana,Test Lead,D020
+J261,C001,Gurugram,Haryana,Data Scientist,D008
+J262,C002,,Himachal Pradesh,Data Science Internship Opportunity for University Graduates,D107
+J263,C002,,Himachal Pradesh,Data Science Internship Opportunity for University Graduates,D098
+J264,C002,,Himachal Pradesh,Data Science Internship Opportunity for University Graduates,D107
+J265,C024,Hyderabad,Telangana,Machine Learning Engineer,D004
+J266,C039,Hyderabad,Telangana,"Data Analyst, FinTech",D004
+J267,C050,Hyderabad,Telangana,Software Engineer AI/ML,D004
+J268,C024,Hyderabad,Telangana,Machine Learning Engineer,D004
+J269,C136,Hyderabad,Telangana,Senior Technical Consultant (Salesforce Developer),D004
+J270,C009,Hyderabad,Telangana,Data Analyst,D004
+J271,C154,Hyderabad,Telangana,Analyst/Data Analytics,D030
+J272,C154,Hyderabad,Telangana,Analyst/Data Analytics,D030
+J273,C183,Hyderabad,Telangana,Assistant - QC,D030
+J274,C187,Hyderabad,Telangana,Manual Tester,D008
+J275,C188,Hyderabad,Telangana,Workflow Management Team Lead - NOVA,D008
+J276,C181,Hyderabad,Telangana,Test Lead,D008
+J277,C193,Hyderabad,Telangana,Customer Support Semi Voice - Hyderabad,D053
+J278,C187,Hyderabad,Telangana,Manual Tester,D008
+J279,C212,Hyderabad,Telangana,AbhiBus - Manager - Brand Communications,D008
+J280,C220,Hyderabad,Telangana,Senior Lead Engineer,D008
+J281,C187,Hyderabad,Telangana,Manual Tester,D008
+J282,C241,Hyderabad,Telangana,Sales Manager,D041
+J283,C183,Hyderabad,Telangana,Assistant - QC,D052
+J284,C187,Hyderabad,Telangana,Manual Tester,D011
+J285,C188,Hyderabad,Telangana,Workflow Management Team Lead - NOVA,D012
+J286,C181,Hyderabad,Telangana,Test Lead,D023
+J287,C188,Hyderabad,Telangana,Workflow Management Team Lead - NOVA,D012
+J288,C187,Hyderabad,Telangana,Manual Tester,D011
+J289,C188,Hyderabad,Telangana,Workflow Management Team Lead - NOVA,D012
+J290,C191,Hyderabad,Telangana,Associate,D030
+J291,C187,Hyderabad,Telangana,Manual Tester,D011
+J292,C187,Hyderabad,Telangana,Manual Tester,D008
+J293,C169,Imamganj,Bihar,Assistente Administrativo,D030
+J294,C172,Imamganj,Bihar,Assistente Administrativo - Estoque,D030
+J295,C169,Imamganj,Bihar,Assistente Administrativo,D030
+J296,C231,Imamganj,Bihar,Gerente de E-commerce,D030
+J297,C232,Imamganj,Bihar,Assistente de Compras,D030
+J298,C172,Imamganj,Bihar,Assistente Administrativo - Estoque,D030
+J299,C233,Imamganj,Bihar,Assistente de Marketing-031CAMBE,D030
+J300,C239,Imamganj,Bihar,Auxiliar de Operao,D030
+J301,C169,Imamganj,Bihar,Assistente Administrativo,D030
+J302,C169,Imamganj,Bihar,Assistente Administrativo,D043
+J303,C172,Imamganj,Bihar,Assistente Administrativo - Estoque,D031
+J304,C172,Imamganj,Bihar,Assistente Administrativo - Estoque,D031
+J305,C232,Imamganj,Bihar,Assistente de Compras,D039
+J306,C231,Imamganj,Bihar,Gerente de E-commerce,D030
+J307,C172,Imamganj,Bihar,Assistente Administrativo - Estoque,D030
+J308,C172,Imamganj,Bihar,Assistente Administrativo - Estoque,D030
+J309,C232,Imamganj,Bihar,Assistente de Compras,D030
+J310,C231,Imamganj,Bihar,Gerente de E-commerce,D030
+J311,C006,,India,Data Scientist,D084
+J312,C010,,India,Data Scientist,D084
+J313,C011,,India,Data Scientist,D008
+J314,C012,,India,Data Scientist,D008
+J315,C010,,India,Data Scientist,D084
+J316,C186,,India,Business Analyst,D008
+J317,C186,,India,Business Analyst,D008
+J318,C213,,India,Senior SAP Spartacus Developer,D008
+J319,C213,,India,Lead SAP Spartacus Developer,D084
+J320,C213,,India,Senior Perl Developer,D008
+J321,C186,,India,Business Analyst,D008
+J322,C246,,India,Valuation Analyst,D084
+J323,C186,,India,Business Analyst,D008
+J324,C170,Kalyanpur,Bihar,Analista Financeiro,D030
+J325,C178,Kalyanpur,Bihar,Social Media,D030
+J326,C203,Kalyanpur,Bihar,Gerente Comercial,D008
+J327,C169,Kalyanpur,Bihar,Auxiliar Geral- Eta Ete,D030
+J328,C170,Kalyanpur,Bihar,Analista Financeiro,D030
+J329,C204,Kalyanpur,Bihar,Encarregado Depsito,D084
+J330,C206,Kalyanpur,Bihar,Auxiliar Administrativo,D030
+J331,C169,Kalyanpur,Bihar,Auxiliar de Servios Gerais,D030
+J332,C170,Kalyanpur,Bihar,Assistente Financeiro,D030
+J333,C208,Kalyanpur,Bihar,Auxiliar de Limpeza Clnica Odontolgica,D030
+J334,C209,Kalyanpur,Bihar,Frentista em Paran,D030
+J335,C170,Kalyanpur,Bihar,Analista Financeiro,D030
+J336,C203,Kalyanpur,Bihar,Gerente Comercial,D008
+J337,C206,Kalyanpur,Bihar,Auxiliar Administrativo,D030
+J338,C169,Kalyanpur,Bihar,Analista de Planejamento Jr - Adm Industria,D008
+J339,C236,Kalyanpur,Bihar,Operador de Impressora Flexografica,D030
+J340,C169,Kalyanpur,Bihar,Auxiliar de Servios Gerais,D030
+J341,C208,Kalyanpur,Bihar,Auxiliar de Limpeza Clnica Odontolgica,D030
+J342,C208,Kalyanpur,Bihar,Auxiliar de Limpeza Clnica Odontolgica,D030
+J343,C178,Kalyanpur,Bihar,Social Media,D031
+J344,C178,Kalyanpur,Bihar,Social Media,D031
+J345,C206,Kalyanpur,Bihar,Auxiliar Administrativo,D041
+J346,C203,Kalyanpur,Bihar,Gerente Comercial,D018
+J347,C170,Kalyanpur,Bihar,Analista Financeiro,D030
+J348,C170,Kalyanpur,Bihar,Analista Financeiro,D030
+J349,C169,Kalyanpur,Bihar,Auxiliar Geral- Eta Ete,D030
+J350,C203,Kalyanpur,Bihar,Gerente Comercial,D018
+J351,C204,Kalyanpur,Bihar,Encarregado Depsito,D084
+J352,C170,Kalyanpur,Bihar,Assistente Financeiro,D030
+J353,C206,Kalyanpur,Bihar,Auxiliar Administrativo,D030
+J354,C322,Kalyanpur,Bihar,Gerente Comercial De Filial,D009
+J355,C206,Kalyanpur,Bihar,Auxiliar Administrativo,D030
+J356,C203,Kalyanpur,Bihar,Gerente Comercial,D008
+J357,C170,Kalyanpur,Bihar,Analista Financeiro,D030
+J358,C002,,Karnataka,Data Science Internship Opportunity for University Graduates,D108
+J359,C002,,Karnataka,Data Science Internship Opportunity for University Graduates,D098
+J360,C002,,Karnataka,Data Science Internship Opportunity for University Graduates,D098
+J361,C002,,Karnataka,Product Manager Internship Opportunity for University Graduates,D098
+J362,C002,,Karnataka,Product Manager Internship Opportunity for University Graduates,D112
+J363,C002,,Karnataka,Product Manager Internship Opportunity for University Graduates,D098
+J364,C134,Kochi,Kerala,SR DM Scientist (Sen Associate),D005
+J365,C151,Kochi,Kerala,RPA Engineer,D030
+J366,C179,Kolkata,West Bengal,Project Manager - Nest IN (Planning & Control),D084
+J367,C180,Kolkata,West Bengal,RECRUITMENT BANDHAN BANK LIMITED,D030
+J368,C179,Kolkata,West Bengal,Project Manager - Nest IN (Planning & Control),D084
+J369,C193,Kolkata,West Bengal,Urgent Opening for IT Recruiter-WFH,D053
+J370,C205,Kolkata,West Bengal,Regional Customer Manager,D084
+J371,C180,Kolkata,West Bengal,RECRUITMENT BANDHAN BANK LIMITED,D030
+J372,C146,Kolkata,West Bengal,Node.js Developer,D084
+J373,C193,Kolkata,West Bengal,Virtual Assistant(Freelance),D001
+J374,C205,Kolkata,West Bengal,Regional Customer Manager,D084
+J375,C179,Kolkata,West Bengal,Project Manager - Nest IN (Planning & Control),D084
+J376,C180,Kolkata,West Bengal,RECRUITMENT BANDHAN BANK LIMITED,D042
+J377,C180,Kolkata,West Bengal,RECRUITMENT BANDHAN BANK LIMITED,D042
+J378,C193,Kolkata,West Bengal,Virtual Assistant(Freelance),D002
+J379,C180,Kolkata,West Bengal,RECRUITMENT BANDHAN BANK LIMITED,D042
+J380,C205,Kolkata,West Bengal,Regional Customer Manager,D094
+J381,C193,Kolkata,West Bengal,Urgent Opening for IT Recruiter-WFH,D054
+J382,C193,Kolkata,West Bengal,Virtual Assistant(Freelance),D001
+J383,C107,,Maharashtra,Data Analyst,D084
+J384,C107,,Maharashtra,Data Analyst,D084
+J385,C002,,Maharashtra,Product Manager Internship Opportunity for University Graduates,D098
+J386,C002,,Maharashtra,Product Manager Internship Opportunity for University Graduates,D113
+J387,C017,Manesar,Haryana,Data Analyst,D084
+J388,C017,Manesar,Haryana,Data Analyst,D084
+J389,C033,Mumbai,Maharashtra,Graduate Data Scientist,D060
+J390,C040,Mumbai,Maharashtra,Data Analyst,D030
+J391,C033,Mumbai,Maharashtra,Graduate Data Scientist,D060
+J392,C137,Mumbai,Maharashtra,Senior Front End Developer,D093
+J393,C040,Mumbai,Maharashtra,Data Analyst,D030
+J394,C040,Mumbai,Maharashtra,Data Analyst,D030
+J395,C035,Mumbai,Maharashtra,Relationship Manager,D008
+J396,C177,Mumbai,Maharashtra,Sr.Manager/Manager - Strategy & Operations,D084
+J397,C035,Mumbai,Maharashtra,Relationship Manager,D008
+J398,C035,Mumbai,Maharashtra,Business Development Manager,D008
+J399,C194,Mumbai,Maharashtra,Vendor Onboarding - Analyst,D030
+J400,C195,Mumbai,Maharashtra,Business Analyst,D008
+J401,C199,Mumbai,Maharashtra,Summer Internship - Finance & Accounting,D114
+J402,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D060
+J403,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D060
+J404,C199,Mumbai,Maharashtra,Summer Internship - Brand,D114
+J405,C177,Mumbai,Maharashtra,"SENIOR MANAGER, CLIENT STRATEGY",D084
+J406,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D060
+J407,C199,Mumbai,Maharashtra,Summer Internship - Information Technology,D114
+J408,C207,Mumbai,Maharashtra,Executive - Customer Services (Webchat),D008
+J409,C210,Mumbai,Maharashtra,"Associate Director - Marketing, Star Sports",D028
+J410,C199,Mumbai,Maharashtra,Summer Internship - Brand,D114
+J411,C199,Mumbai,Maharashtra,Summer Internship - Information Technology,D114
+J412,C225,Mumbai,Maharashtra,Procurement Engineer - Contracting & Procurement,D008
+J413,C205,Mumbai,Maharashtra,Executive - Mechandising,D053
+J414,C230,Mumbai,Maharashtra,Software engineer I,D030
+J415,C177,Mumbai,Maharashtra,"SENIOR MANAGER, CLIENT STRATEGY",D084
+J416,C177,Mumbai,Maharashtra,Sr.Manager/Manager - Strategy & Operations,D084
+J417,C199,Mumbai,Maharashtra,Summer Internship - Information Technology,D114
+J418,C205,Mumbai,Maharashtra,Executive - Mechandising,D053
+J419,C177,Mumbai,Maharashtra,Sr.Manager/Manager - Strategy & Operations,D084
+J420,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D060
+J421,C199,Mumbai,Maharashtra,Summer Internship - Information Technology,D114
+J422,C237,Mumbai,Maharashtra,Assistant Product Manager,D008
+J423,C238,Mumbai,Maharashtra,Zepto - Category Manager,D008
+J424,C035,Mumbai,Maharashtra,Relationship Manager,D008
+J425,C195,Mumbai,Maharashtra,Business Analyst,D008
+J426,C199,Mumbai,Maharashtra,Summer Internship - Information Technology,D114
+J427,C035,Mumbai,Maharashtra,Relationship Manager,D008
+J428,C210,Mumbai,Maharashtra,"Associate Director - Marketing, Star Sports",D028
+J429,C251,Mumbai,Maharashtra,Head of Revenue Operations,D088
+J430,C199,Mumbai,Maharashtra,Summer Internship - Information Technology,D114
+J431,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D064
+J432,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D072
+J433,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D062
+J434,C035,Mumbai,Maharashtra,Relationship Manager,D015
+J435,C035,Mumbai,Maharashtra,Relationship Manager,D016
+J436,C177,Mumbai,Maharashtra,Sr.Manager/Manager - Strategy & Operations,D084
+J437,C207,Mumbai,Maharashtra,Executive - Customer Services (Webchat),D021
+J438,C293,Mumbai,Maharashtra,Office Coordinator,D030
+J439,C296,Mumbai,Maharashtra,Executive Assistant - CEO,D024
+J440,C200,Mumbai,Maharashtra,Assistant Customer Serivce Manager,D095
+J441,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D072
+J442,C205,Mumbai,Maharashtra,Executive - Mechandising,D055
+J443,C230,Mumbai,Maharashtra,Software engineer I,D030
+J444,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D080
+J445,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D065
+J446,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D063
+J447,C199,Mumbai,Maharashtra,Summer Internship - Brand,D114
+J448,C035,Mumbai,Maharashtra,Relationship Manager,D016
+J449,C210,Mumbai,Maharashtra,"Associate Director - Marketing, Star Sports",D028
+J450,C323,Mumbai,Maharashtra,General Manager - Sales Strategy,D084
+J451,C194,Mumbai,Maharashtra,Vendor Onboarding - Analyst,D030
+J452,C200,Mumbai,Maharashtra,Graduate Engineering Trainee,D064
+J453,C207,Mumbai,Maharashtra,Executive - Customer Services (Webchat),D008
+J454,C296,Mumbai,Maharashtra,Executive Assistant - CEO,D008
+J455,C200,Mumbai,Maharashtra,Assistant Customer Serivce Manager,D084
+J456,C177,Mumbai Metropolitan Region,Maharashtra,Product Analyst,D084
+J457,C177,Mumbai Metropolitan Region,Maharashtra,Product Analyst,D084
+J458,C247,Navi Mumbai,Maharashtra,Transaction Monitoring Officer,D044
+J459,C032,Noida,Uttar Pradesh,Data Scientist,D084
+J460,C002,Noida,Uttar Pradesh,Product Manager,D084
+J461,C099,Noida,Uttar Pradesh,Data Analyst,D008
+J462,C032,Noida,Uttar Pradesh,Data Scientist,D084
+J463,C099,Noida,Uttar Pradesh,Data Analyst,D008
+J464,C002,Noida,Uttar Pradesh,Product Manager,D084
+J465,C218,Open Area,Delhi,Transaction Processing New Associate,D030
+J466,C218,Open Area,Delhi,Transaction Processing New Associate,D046
+J467,C029,Pune,Maharashtra,Data Scientist,D008
+J468,C029,Pune,Maharashtra,Data Scientist,D008
+J469,C173,Pune,Maharashtra,Head of HR (Corporate),D028
+J470,C185,Pune,Maharashtra,Business Analyst,D008
+J471,C198,Pune,Maharashtra,Customer Service Executive,D008
+J472,C200,Pune,Maharashtra,Graduate Engineering Trainee,D060
+J473,C200,Pune,Maharashtra,Graduate Engineering Trainee,D060
+J474,C214,Pune,Maharashtra,Quick Fix Developer,D030
+J475,C219,Pune,Maharashtra,SAP IT Analyst RTR,D003
+J476,C200,Pune,Maharashtra,Graduate Engineering Trainee,D060
+J477,C226,Pune,Maharashtra,Sales Manager I,D008
+J478,C200,Pune,Maharashtra,Graduate Engineering Trainee,D060
+J479,C200,Pune,Maharashtra,Graduate Engineering Trainee,D060
+J480,C198,Pune,Maharashtra,Customer Service Executive,D008
+J481,C244,Pune,Maharashtra,Finance Executive,D084
+J482,C185,Pune,Maharashtra,Business Analyst,D025
+J483,C200,Pune,Maharashtra,Graduate Engineering Trainee,D066
+J484,C200,Pune,Maharashtra,Graduate Engineering Trainee,D083
+J485,C200,Pune,Maharashtra,Graduate Engineering Trainee,D075
+J486,C200,Pune,Maharashtra,Graduate Engineering Trainee,D077
+J487,C200,Pune,Maharashtra,Graduate Engineering Trainee,D074
+J488,C200,Pune,Maharashtra,Graduate Engineering Trainee,D069
+J489,C200,Pune,Maharashtra,Graduate Engineering Trainee,D067
+J490,C200,Pune,Maharashtra,Graduate Engineering Trainee,D061
+J491,C200,Pune,Maharashtra,Graduate Engineering Trainee,D081
+J492,C200,Pune,Maharashtra,Graduate Engineering Trainee,D062
+J493,C200,Pune,Maharashtra,Graduate Engineering Trainee,D068
+J494,C200,Pune,Maharashtra,Graduate Engineering Trainee,D078
+J495,C200,Pune,Maharashtra,Graduate Engineering Trainee,D076
+J496,C200,Pune,Maharashtra,Graduate Engineering Trainee,D073
+J497,C185,Pune,Maharashtra,Business Analyst,D025
+J498,C185,Pune,Maharashtra,Business Analyst,D025
+J499,C292,Pune,Maharashtra,Data/Research/Business Analyst,D097
+J500,C200,Pune,Maharashtra,Graduate Engineering Trainee,D078
+J501,C226,Pune,Maharashtra,Sales Manager I,D008
+J502,C200,Pune,Maharashtra,Graduate Engineering Trainee,D071
+J503,C200,Pune,Maharashtra,Graduate Engineering Trainee,D070
+J504,C200,Pune,Maharashtra,Graduate Engineering Trainee,D082
+J505,C200,Pune,Maharashtra,Graduate Engineering Trainee,D073
+J506,C292,Pune,Maharashtra,Data/Research/Business Analyst,D097
+J507,C173,Pune,Maharashtra,Head of HR (Corporate),D028
+J508,C200,Pune,Maharashtra,Graduate Engineering Trainee,D067
+J509,C200,Pune,Maharashtra,Graduate Engineering Trainee,D060
+J510,C292,Pune,Maharashtra,Data/Research/Business Analyst,D084
+J511,C181,Pune/Pimpri-Chinchwad Area,Maharashtra,Project Manager,D030
+J512,C181,Pune/Pimpri-Chinchwad Area,Maharashtra,Project Manager,D045
+J513,C181,Pune/Pimpri-Chinchwad Area,Maharashtra,Project Manager,D045
+J514,C180,Raniganj,Bihar,Bandhan Bank Back office executive Jobs - Kolkata,D008
+J515,C180,Raniganj,Bihar,Bandhan Bank Back office executive Jobs - Kolkata,D008
+J516,C068,Thiruvananthapuram,Kerala,Associate Product Manager I,D031
+J517,C002,,Tripura,Data Science Internship Opportunity for University Graduates,D098
+J518,C068,Trivandrum,Kerala,Data Scientist,D014
+J519,C002,,Uttar Pradesh,Product Manager Internship Opportunity for University Graduates,D111
+J520,C002,,Uttar Pradesh,Product Manager Internship Opportunity for University Graduates,D111
+J521,C002,,Uttarakhand,Data Science Internship Opportunity for University Graduates,D098
+J522,C224,Vadodara,Gujarat,Quality Assurance Engineer,D030
+J523,C002,,West Bengal,Product Manager Internship Opportunity for University Graduates,D098
+J524,C002,,West Bengal,Product Manager Internship Opportunity for University Graduates,D105
