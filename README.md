@@ -6,4 +6,13 @@ The project was performed as per MASAI School project activity. The details of t
 The project was accomplished by group of four members. Each member performed different set of tasks. 
 - <strong> Nilabh Kumar </strong>, my role was to extract Job Posting Data from the <a href = "https://www.linkedin.com"> linkedIn website.</a>
 
---
+<strong> Strategy for scrapping the Job Posting using Python Language </strong>
+- Extract the job posting links using Python BeautifulSoup library.
+- Extract the required data using Python Selenium library.
+- Save the extracted data in python list/dictionary.
+- Convert the list/dictionary to pandas DataFrame.
+- Perform data cleaning.
+- Create Job ID, Company ID and Details ID.
+- Save the final datasets in csv format.
+
+
