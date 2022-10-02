@@ -21,3 +21,16 @@ The project was accomplished by group of four members. Each member performed dif
 - Later Logged in to linkedIn. There are two ways of getting the job posting. One by clicking the "My Job" tab and another was by "Job Search" block. "My Job" tab will return recommended jobs for a particular account, hence dropped this method. "job Search" bloack will return jobs according to the keywords supplied. Hence this approach was finalized because we required data from India only.
 - Manually extracted links. Each link contained 25 job postings.
 - The above step will be automated in later stage of this project.
+
+<strong>1. Final Extraction Approach</strong>
+- Links are provided to the scraper manually in form of list
+- From each link, links of 25 job posting is extracted using BeautifulSoup library.
+- From each job link required details are extracted using selenium library. Appropriate class name or tag name is passed to get the data.
+- Final raw data is obtained in the last.
+
+<strong>2. Data Cleaning</strong>
+- Raw data is converted to DataFrame and then cleaned using python pandas library.
+- According to the table requirement, columns are grouped accordingly and 3 new DataFrame is created.
+- Again data cleaning(null removal, duplicate removal) is performed for each of the 3 DataFrame.
+- Finally cleaned data is saved in CSV format. 
+- 
