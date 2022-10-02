@@ -6,3 +6,4 @@ The project was performed as per MASAI School project activity. The details of t
 The project was accomplished by group of four members. Each member performed different set of tasks. 
 - <strong> Nilabh Kumar </strong>, my role was to extract Job Posting Data from the <a href = "https://www.linkedin.com"> linkedIn website.</a>
 
+--
