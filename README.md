@@ -39,7 +39,7 @@ The project was accomplished by group of four members. Each member performed dif
 <strong>3. Insights using MS SQL</strong>
 - The CSVs are imported in MS SQL server.
 - Insights are drawn according to the problem statement.
-- MS MSQL file is attached.
+- MS MSQL file is attached for reference.
 
 <strong>4. Dashboard Creation</strong>
 - Each of the three CSVs are joined in MS SQL.
